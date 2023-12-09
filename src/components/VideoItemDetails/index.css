@@ -1,0 +1,10 @@
+.horizontal-line {
+  border: 1px solid #cccccc;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .dot-icon {
+    display: block;
+  }
+}
